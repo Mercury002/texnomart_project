@@ -1,0 +1,119 @@
+[
+    {
+        "artNumber": "Телефоны",
+        "name": "Xs Pro Max",
+        "brand": "iPhone",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 0
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "ROG Phone",
+        "brand": "ASUS",
+        "weight": "400gr",
+        "quantity": "quantity",
+        "price": "350$",
+        "stock": 0
+    },
+    {
+        "artNumber": "Мышка",
+        "name": "TUF Gaming M5",
+        "brand": "ASUS",
+        "weight": "50gr",
+        "quantity": "quantity",
+        "price": "100$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Samsung Galaxy A53",
+        "brand": "Samsung",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Iphone 13 PRO",
+        "brand": "iPhone",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Наушники",
+        "name": "TUF Gaming H7",
+        "brand": "ASUS",
+        "weight": "100gr",
+        "quantity": "quantity",
+        "price": "200$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Iphone 7",
+        "brand": "iPhone",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 0
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Iphone 14",
+        "brand": "iPhone",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Xioami 12T Pro",
+        "brand": "Xiaomi",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Xiaomi Poco M5",
+        "brand": "Xioami",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 0
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Samsung Galaxy Fold 3",
+        "brand": "Samsung",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Телефоны",
+        "name": "Iphone XR",
+        "brand": "iPhone",
+        "weight": "200gr",
+        "quantity": "quantity",
+        "price": "300$",
+        "stock": 1
+    },
+    {
+        "artNumber": "Monitor",
+        "name": "TUFF GAMING",
+        "brand": "ASUS",
+        "weight": "800gr",
+        "quantity": "quantity",
+        "price": "800$",
+        "stock": 1
+    }
+]

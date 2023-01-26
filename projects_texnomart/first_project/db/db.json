@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "123",
+      "date": "2023-01-20T21:14:44.750Z",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "task": "123123",
+      "date": "2023-01-20T21:15:24.709Z",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "task": "asd",
+      "date": "2023-01-20T21:19:07.239Z",
+      "isDeleted": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
